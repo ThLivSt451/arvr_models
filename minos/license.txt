@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ultrakill Minos Prime
+* source:	https://sketchfab.com/3d-models/ultrakill-minos-prime-a67af129ac38416f97f740a34587f4b3
+* author:	NO DONT EAT ME CASEOH (Ferris wheel) (https://sketchfab.com/NO.DONT.EAT.ME.CASEOH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ultrakill Minos Prime" (https://sketchfab.com/3d-models/ultrakill-minos-prime-a67af129ac38416f97f740a34587f4b3) by NO DONT EAT ME CASEOH (Ferris wheel) (https://sketchfab.com/NO.DONT.EAT.ME.CASEOH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
